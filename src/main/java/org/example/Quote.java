@@ -1,8 +1,8 @@
 package org.example;
 import java.util.Scanner;
 /**
- * Hello world!
- *
+ * UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  *  Copyright 2021 Vincent Verapen
  */
 public class Quote
 {
